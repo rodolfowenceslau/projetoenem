@@ -14,5 +14,8 @@ As etapas macro do CRISP-DM são:
 O dataset do Enem foi utilizado para demonstrar as respectivas etapas, ele pode ser baixado através do seguinte endereço: http://inep.gov.br/microdados.
 Após acessar basta procurar por Enem e encontrar o ano desejado para realizar o download dos arquivos.
 
+Caso o arquivo não esteja disponibilizado no link citado anteriormente, você pode accessar o CSV do Enem 2018 através deste compartilhamento no Google Drive:
+https://drive.google.com/file/d/1Dip5hoJ08gxvbawUqGS_cbnPLR5SqrDD/view?usp=sharing
+
 Os códigos utilizados foram desenvolvidos através do GOOGLE COLAB.
 
